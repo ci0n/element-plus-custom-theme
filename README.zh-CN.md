@@ -7,9 +7,8 @@
 在官方更新主题定制工具之前可以使用这个工具
 
 
-- 支持 [Online Theme Roller](https://element.eleme.cn/#/en-US/theme) 和 [Theme Roller Chrome Extension](https://chrome.google.com/webstore/detail/element-theme-roller/lifkjlojflekabbmlddfccdkphlelmim) 生成的 `config.json` 文件
+- 支持 [在线主题编辑器](https://element.eleme.cn/#/zh-CN/theme) 和 [主题编辑器 Chrome 插件](https://chrome.google.com/webstore/detail/element-theme-roller/lifkjlojflekabbmlddfccdkphlelmim) 生成的 `config.json` 文件
 
-(请不要吐槽我的蹩脚英语)
 
 ## 安装
 

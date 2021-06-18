@@ -2,7 +2,7 @@
 
 # element-plus-custom-theme
 
-A simple [element-plus](https://element-plus.org/) theme customization tool.
+A simple [element-plus](https://element-plus.org/) theme customization tool.
 
 This tool can be used before the official update of the theme customization tool.
 
