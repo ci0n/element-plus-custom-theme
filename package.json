@@ -1,6 +1,6 @@
 {
   "name": "element-plus-custom-theme",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0-alpha.1",
   "description": "a simple element-plus theme customization tool",
   "bin": {
     "cpct": "bin/cli.js"
@@ -16,6 +16,11 @@
   "bugs": {
     "url": "https://github.com/ci0n/element-plus-custom-theme/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ci0n/element-plus-custom-theme.git"
+  },
+  "homepage": "https://github.com/ci0n/element-plus-custom-theme",
   "author": "ci0n",
   "engines": {
     "node": ">=10.0"
