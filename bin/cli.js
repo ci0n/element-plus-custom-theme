@@ -20,8 +20,5 @@ program
 
 program.parse(process.argv)
 
-console.log(program.opts());
-console.log(program.args);
-
 
 main(program.args, program.opts())
