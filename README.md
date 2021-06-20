@@ -1,4 +1,4 @@
-[中文](./README.zh-CN.md)
+[中文](https://github.com/ci0n/element-plus-custom-theme/blob/main/README.zh-CN.md)
 
 # element-plus-custom-theme
 

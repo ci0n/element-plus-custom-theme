@@ -1,14 +1,16 @@
 {
   "name": "element-plus-custom-theme",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "a simple element-plus theme customization tool",
   "bin": {
-    "cpct": "bin/cli.js"
+    "epct": "bin/cli.js"
   },
   "keywords": [
     "element-ui",
     "element-plus",
     "element-theme",
+    "element-plus theme",
+    "custom theme",
     "vue",
     "theme",
     "cli"

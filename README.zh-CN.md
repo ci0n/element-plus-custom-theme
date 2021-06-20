@@ -1,4 +1,4 @@
-[English](./README.md)
+[English](https://github.com/ci0n/element-plus-custom-theme/blob/main/README.md)
 
 # element-plus-custom-theme
 
