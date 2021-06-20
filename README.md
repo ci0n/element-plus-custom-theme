@@ -19,10 +19,10 @@ npm i -S element-plus
 
 ## usage
 ```bash
-cpct src/theme/config.json -o src/theme/custom-theme/
+epct src/theme/config.json -o src/theme/custom-theme/
 ```
 
 element-plus has added many scss variables, you can use multiple `config.json` files to customize the theme:
 ```bash
-cpct src/theme/config.json src/theme/config-plus.json -o src/theme/custom-theme
+epct src/theme/config.json src/theme/config-plus.json -o src/theme/custom-theme
 ```

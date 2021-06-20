@@ -19,10 +19,10 @@ npm install -D element-plus-custom-theme
 ## 使用
 
 ```bash
-cpct src/theme/config.json -o src/theme/custom-theme/
+epct src/theme/config.json -o src/theme/custom-theme/
 ```
 
 element-plus 新增了很多 scss 变量，可以使用多个 `config.json` 文件定制主题：
 ```bash
-cpct src/theme/config.json src/theme/config-plus.json -o src/theme/custom-theme
+epct src/theme/config.json src/theme/config-plus.json -o src/theme/custom-theme
 ```
